@@ -1,0 +1,15 @@
+/build*/
+/dist/
+/.vs/
+/.idea/
+*.dll
+*.pdb
+*.obj
+*.lib
+*.log
+*.zip
+*.ess
+*.skse
+.env
+.env.*
+CMakeUserPresets.json
